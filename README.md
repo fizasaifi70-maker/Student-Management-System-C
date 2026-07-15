@@ -26,7 +26,7 @@ This project was created as part of my C programming learning journey.
 ## 🛠️ Technologies Used
 
 - C Programming Language
-- GCC Compiler (or any standard C compiler)
+- Coding.c app
 
 ---
 
